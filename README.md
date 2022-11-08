@@ -60,7 +60,8 @@
   #### FIND WORDS AND FILE
   * <ins>space+f+f</ins>  Find file.
   * <ins>/<text> (in command mode)</ins> Find in file.
-  * <ins></ins>
+  * <ins> n (in command mode) </ins> GO to next match.
+  #### REPLACE WORDS
  
   
   #### SELECT TEXT TO COPY
