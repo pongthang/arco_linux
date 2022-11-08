@@ -81,6 +81,8 @@
   * <ins>ctrl+o (in command mode)</ins> Return back.
   * <ins>space+k+c (in command mode)</ins> Compile.
   * <ins>space+k+r (in command mode)</ins> Run.
+  * w, e, $, 0 are the motion specifiers. `A` is used for appending (move to the last of the line and start appending there.)
+  * Typing a number before a motion will repeat that operation that many times. j
   #### SPLIT SCREEN
   * <ins>:sp (in command mode)</ins> Split screen horizontally.
   * <ins>:vsp (in command mode)</ins> Split screen vertically.
@@ -91,7 +93,7 @@
   * <ins>x</ins> : To delete the character at the cursor position. 
   * <ins>dw</ins> : To delete until the start of the next word, excluding its first character. 
   * <ins>de</ins> : To delete to the end of the current word. 
-  * <ins>d$</ins> : To delete from current position to the end of the line. 
+  * <ins>d$</ins> : To delete from current position to the end of the line(we have swapped the `$` with the `0`, as it seems to be more logical that way as 0 is to the right). 
   
   ### Counting and Quantifying motion: 
   * Nw : move cursor `n` words forward. 
