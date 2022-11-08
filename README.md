@@ -1,11 +1,11 @@
-# ARCHO LINUX SETUP AND SHORTCUTS : 
+# ARCO LINUX SETUP AND SHORTCUTS : 
 
 * use `lt` to list latest modified file/folder first through terminal. 
 * Your arch is in a state(w.r.t to packages version) at each time. So : 
   * `-S` : when you want to install the package that is compatible with your current state. 
   * `Syu` : Upgrade all the packages version to the latest. So if you do `-Syu chrome` , it will fetch latest version of chrome & simulatenously upgrade all the packages in your machine to the latest. 
 
-## GENERAL ARCHO SHORTCUTS : 
+## GENERAL ARCO SHORTCUTS : 
 
 ### GLOBAL SHORTCUTS : 
 
