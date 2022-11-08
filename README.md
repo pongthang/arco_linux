@@ -29,7 +29,7 @@
 <br>
 
 * <ins>super+alt+enter</ins> : Launch Terminal
-* <ins>alt+space</ins> : Toggle scratchpad. 
+* <ins>super+space</ins> : Toggle scratchpad. 
 <br>
 
 ### TMUX SHORTCUTS : 
