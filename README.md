@@ -74,6 +74,7 @@
   * <ins>shift+p (in command mode)</ins> To paste the copied content before the cursor.
   #### UNDO AND REDO
   * <ins>u (in command mode)</ins> To undo the changes.
+  * <ins>U</ins> : To undo and restore the whole line. 
   * <ins>ctrl+r(in command mode)</ins> To redo the changes.
   #### USEFUL TIPS FOR CODERS
   * <ins>g+d (in command mode)</ins> Go to function defintion.
@@ -84,6 +85,22 @@
   * <ins>:sp (in command mode)</ins> Split screen horizontally.
   * <ins>:vsp (in command mode)</ins> Split screen vertically.
   * <ins>ctrl+v (in file explorer)</ins> Split screen vertically.
+  
+  
+  ### Deleting Things : 
+  * <ins>x</ins> : To delete the character at the cursor position. 
+  * <ins>dw</ins> : To delete until the start of the next word, excluding its first character. 
+  * <ins>de</ins> : To delete to the end of the current word. 
+  * <ins>d$</ins> : To delete from current position to the end of the line. 
+  
+  ### Counting and Quantifying motion: 
+  * Nw : move cursor `n` words forward. 
+  * ne : take cursor to the end of `nth` word forward. 
+  * 0 : take cursor to the beginning of the line. 
+  
+  ### Operating Lines : 
+  * dd : To delete the entire line. 
+  * 2dd : Delete two consecutive lines (including the current line). 
   
   
   
