@@ -104,6 +104,9 @@
   * dd : To delete the entire line. 
   * 2dd : Delete two consecutive lines (including the current line). 
   
+  ### ERRORS :
+  * dl : To expand the error details.
+  
   
   
 
